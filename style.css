@@ -1,0 +1,19 @@
+h1 {           
+    font-family: Arial;
+    color: dodgerblue;}
+h2 {
+    font-family: Arial;
+    color: dodgerblue;
+    background-color: lightgrey;
+}
+h3 {
+    font-family: Arial;
+    color: dodgerblue;
+}
+#space {
+    text-indent: 20px;
+}
+
+p{
+    line-height: 1em
+}
